@@ -1,3 +1,0 @@
- Hadoop fs -mkdir Temperature Data
- Hadoop fs -copyFromLocal  Temperature Data/Temperature.txt
- Hadoop fs jar temperature.jar MyMaxMin Temperature Data/Temperature_results/results
